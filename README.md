@@ -1,4 +1,4 @@
-# 🧠 Research Portfolio
+# 🌟 Research Portfolio
 
 I work on **Arabic NLP**, **speech processing**, and **AI for education**.  
 Full repositories are private due to confidentiality and data-protection requirements.
